@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=screen
+comment0.target=MenuPanel(java.lang.String)
+comment1.params=screen
+comment1.target=MenuPanel(java.awt.Image)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
